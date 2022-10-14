@@ -1,4 +1,5 @@
-Created an API for my social network that uses a NoSQL database.
+Created an API for a social network that uses a NoSQL database. 
+Using Javascript, Node, Express, Moment and Mongoose.
 
 # Walkthrough:
 https://drive.google.com/file/d/1JvrxmbA71cYuaGtD3Y0laDdexEYvrDsH/view
